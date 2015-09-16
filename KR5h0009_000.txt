@@ -1,8 +1,7 @@
-# -*- mode: mandoku-view -*-
-#+TITLE: 高上玉皇本行集經註解
-#+DATE: 2015-08-29 03:01:52
+# -*- mode: mandoku-view; -*-
+#+DATE: 2015-08-29 03:00:57.955042
+#+TITLE: 皇經集注
+#+PROPERTY: DZID  DZ1440
+#+PROPERTY: SOURCE  正統道藏，三家本，1988，34—628 十卷 續道藏
 #+PROPERTY: BASEEDITION HFL
-#+PROPERTY: WITNESS CK-KZ
-#+PROPERTY: JUAN 0
-
-觀
+#+PROPERTY: WITNESS HFL
